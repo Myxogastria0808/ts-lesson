@@ -111,5 +111,6 @@ module.exports = {
 ## `.eslintignore`
 
 ```text
+node_modules
 dist
 ```
